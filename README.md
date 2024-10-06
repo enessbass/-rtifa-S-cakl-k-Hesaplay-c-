@@ -1,2 +1,2 @@
 # İrtifa-Sıcaklık-Hesaplayıcı
-0-h-25 Km arası basınç , yoğunluk ,sıcaklık ve irtifa hesabı 
+Atmosferik Hesaplamalar (0-25 km Arası) - MATLAB Kodu
