@@ -13,8 +13,8 @@ Introduction (Giriş)
 Bu MATLAB kodu, atmosferin 0-25 km aralığında basınç, yoğunluk ve sıcaklık değişimlerini hesaplamak için hazırlanmıştır. Standart Atmosfer Modeli'ne dayanmaktadır. İrtifa arttıkça bu parametrelerin nasıl değiştiğini incelemek için idealdir.
 
 Özellikler:
-Sıcaklık (T), Basınç (P) ve Yoğunluk (ρ) hesaplamaları.
-İrtifa aralığı: 0 ile 25 km arası.
+-Sıcaklık (T), Basınç (P) ve Yoğunluk (ρ) hesaplamaları.
+-İrtifa aralığı: 0 ile 25 km arası.
 MATLAB ile kolayca çalıştırılabilir.
 Kurulum
 Bu projeyi indirin veya kopyalayın.
