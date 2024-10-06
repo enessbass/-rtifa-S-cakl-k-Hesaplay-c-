@@ -20,3 +20,10 @@ Kurulum
 Bu projeyi indirin veya kopyalayın.
 MATLAB yazılımının bilgisayarınızda yüklü olduğundan emin olun.
 Klasörü MATLAB ortamında açın.
+
+
+Hesaplanan Parametreler
+İrtifa (h): 0-25 km arası
+Sıcaklık (T): Kelvin (K)
+Basınç (P): Pascal (Pa)
+Yoğunluk (ρ): kg/m³
