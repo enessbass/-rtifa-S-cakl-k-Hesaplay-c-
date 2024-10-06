@@ -28,4 +28,4 @@ Sıcaklık (T): Kelvin (K)
 Basınç (P): Pascal (Pa)
 Yoğunluk (ρ): kg/m³
 
-(Kodun bir c# örneğide oluşturulmuştur)
+(Kodun bir c# örneği de oluşturulmuştur)
