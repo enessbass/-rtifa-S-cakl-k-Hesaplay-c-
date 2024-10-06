@@ -1,6 +1,6 @@
 # İrtifa-Sıcaklık-Hesaplayıcı
 Atmosferik Hesaplamalar (0-25 km Arası) - MATLAB Kodu
-Bu proje, deniz seviyesinden 25 km yüksekliğe kadar olan atmosferde basınç, yoğunluk, sıcaklık ve irtifa hesaplamalarını yapmaktadır. MATLAB kullanarak bu hesaplamaları gerçekleştiren bir kod içermektedir. Standart atmosfer modelini kullanarak sonuçlar üretir.
+Bu kod, deniz seviyesinden 25 km yüksekliğe kadar olan atmosferde basınç, yoğunluk, sıcaklık ve irtifa hesaplamalarını yapmaktadır. MATLAB kullanarak bu hesaplamaları gerçekleştiren bir kod içermektedir. Standart atmosfer modelini kullanarak sonuçlar üretir.
 
 İçerik
 Introduction (Giriş)
